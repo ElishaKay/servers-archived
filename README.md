@@ -49,3 +49,8 @@ This repository is archived and no longer accepts contributions. For contributin
 ## License
 
 MIT
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/modelcontextprotocol-server-puppeteer).
+
